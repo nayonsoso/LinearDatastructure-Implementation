@@ -1,4 +1,4 @@
-package DoublyLinkedList;
+package DoublyLinkedList; // 16:57 ~ 17:14
 
 public class Main {
     public static void main(String[] args) {
@@ -6,6 +6,7 @@ public class Main {
         dll.print();
 
         dll.addNode(1);
+        /*
         dll.addNode(2);
         dll.addNode(3);
         dll.print();
@@ -29,6 +30,7 @@ public class Main {
         System.out.println(dll.findNode(4));
 
         dll.printReverse();
+         */
     }
 }
 
