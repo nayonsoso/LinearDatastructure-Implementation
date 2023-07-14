@@ -6,7 +6,6 @@ public class Main {
         dll.print();
 
         dll.addNode(1);
-        /*
         dll.addNode(2);
         dll.addNode(3);
         dll.print();
@@ -30,7 +29,6 @@ public class Main {
         System.out.println(dll.findNode(4));
 
         dll.printReverse();
-         */
     }
 }
 
