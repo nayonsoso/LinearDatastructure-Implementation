@@ -8,23 +8,16 @@ public class Main {
         cll.addNode(1);
         cll.addNode(2);
         cll.addNode(3);
-        System.out.println(cll.head.data);
         cll.print();
 
         cll.insertNode(1,4);
         cll.insertNode(1,5);
-        System.out.println(cll.head.data);
-
         cll.print();
 
         cll.deleteNode(1);
-        System.out.println(cll.head.data);
-
         cll.print();
 
         cll.deleteNode(1);
-        System.out.println(cll.head.data);
-
         cll.print();
 
         cll.deleteNode(100);
